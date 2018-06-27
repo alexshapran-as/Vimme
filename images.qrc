@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/window-maximize.png</file>
+        <file>img/window-maximize-gray.png</file>
+        <file>img/play.png</file>
+        <file>img/pause.png</file>
+        <file>img/skip-next.png</file>
+        <file>img/skip-previous.png</file>
+        <file>img/stop.png</file>
+        <file>img/volume.png</file>
+        <file>img/search.png</file>
+        <file>img/window-restore-gray.png</file>
+        <file>img/window-restore.png</file>
+        <file>img/download.png</file>
+        <file>img/download-gray.png</file>
+        <file>img/search-gray.png</file>
+        <file>img/cat_loading.gif</file>
+        <file>img/burger_menu.png</file>
+        <file>img/burger_menu_gray.png</file>
+        <file>img/cat.png</file>
+        <file>img/window-minimize.png</file>
+        <file>img/window-minimize-gray.png</file>
+        <file>img/cat-ico.ico</file>
+        <file>img/music_ico.png</file>
+        <file>img/up_button.png</file>
+        <file>img/up_button-gray.png</file>
+        <file>img/up.png</file>
+        <file>img/close-gray.png</file>
+        <file>img/close.png</file>
+        <file>img/cash.png</file>
+        <file>img/cash-gray.png</file>
+        <file>img/back_from.png</file>
+        <file>img/more.png</file>
+        <file>img/standart_player.png</file>
+        <file>img/cat_hand.png</file>
+        <file>img/cat_hand_gray.png</file>
+    </qresource>
+</RCC>
